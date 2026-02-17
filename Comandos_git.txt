@@ -1,0 +1,13 @@
+Comandos básicos
+git init
+git config --global user.name "jepenavi39-estrella" 
+git config --global user.email jepenavi39@inemkennedy.edu.co
+git config user.name
+git config user.email
+clear
+git status 
+git add .
+git commit -m "listo para subir"
+git commit -m "segundo commit"
+git remote add origin https://github.com/jepenavi39-star/primer_repositorio.git
+git push -u origin master
